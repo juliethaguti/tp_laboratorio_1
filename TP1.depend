@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504851459 source:c:\users\julieta\documents\utn\laboratorio1\repositorios\tp1\funcionestp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesTP.h"
+
+1504849068 c:\users\julieta\documents\utn\laboratorio1\repositorios\tp1\funcionestp.h
+
+1504877293 source:c:\users\julieta\documents\utn\laboratorio1\repositorios\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesTP.h"
+
