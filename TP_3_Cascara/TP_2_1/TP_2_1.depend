@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1506226572 source:c:\users\julieta\documents\utn\laboratorio1\repositorios\tp_2_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1506227586 c:\users\julieta\documents\utn\laboratorio1\repositorios\tp_2_1\persona.h
+
+1506226403 source:c:\users\julieta\documents\utn\laboratorio1\repositorios\tp_2_1\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
